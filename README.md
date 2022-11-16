@@ -3,4 +3,4 @@ I compiled my studies and practical on the introduction to Python for machine le
 
 Study reference - Hamoye.com
 
-![data-science-with-python-online-training](https://user-images.githubusercontent.com/102169299/202244084-2d73b37e-5636-4948-894e-bd031e3dccee.jpg)(figsize=(10,5))
+![data-science-with-python-online-training](https://user-images.githubusercontent.com/102169299/202244084-2d73b37e-5636-4948-894e-bd031e3dccee.jpg)
